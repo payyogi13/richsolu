@@ -1,1 +1,5 @@
-{}
+{
+  "whatsapp": "Auto post new blog to WhatsApp",
+  "instagram": "Auto post new reel",
+  "telegram": "Send blog post with Smartlink"
+}

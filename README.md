@@ -1,2 +1,2 @@
-# RichSolu Automation
-Full Auto Blog + Shop + Social Publisher
+# RichSolu FINAL Automation
+Blog + Smartlink + Shop + Auto-post

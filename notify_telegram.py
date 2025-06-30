@@ -1,1 +1,1 @@
-# Sends updates to your Telegram bot
+# Sends breaking news to Telegram

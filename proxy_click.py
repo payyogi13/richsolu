@@ -1,1 +1,1 @@
-# Proxy-based auto-visitor script
+# Simulates traffic to Adsterra Smartlink

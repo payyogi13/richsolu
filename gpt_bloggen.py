@@ -1,1 +1,1 @@
-# Auto content generator logic here
+# GPT blog generation script placeholder
