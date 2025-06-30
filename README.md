@@ -1,2 +1,1 @@
-# richsolu
-richsolu
+// Placeholder for README.md
