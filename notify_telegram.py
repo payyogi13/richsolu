@@ -1,1 +1,1 @@
-// Placeholder for notify_telegram.py
+# Sends updates to your Telegram bot

@@ -1,1 +1,1 @@
-// Placeholder for gpt_bloggen.py
+# Auto content generator logic here

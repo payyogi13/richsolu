@@ -1,1 +1,1 @@
-// Placeholder for proxy_click.py
+# Proxy-based auto-visitor script

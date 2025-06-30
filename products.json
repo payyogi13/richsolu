@@ -1,1 +1,14 @@
-// Placeholder for products.json
+[
+  {
+    "title": "Noise Smart Watch",
+    "price": "\u20b91,299",
+    "image": "https://m.media-amazon.com/images/I/61B1RIX1zLL._AC_UY218_.jpg",
+    "link": "https://amzn.to/xxxxxx"
+  },
+  {
+    "title": "Flipkart Power Bank",
+    "price": "\u20b9899",
+    "image": "https://rukminim1.flixcart.com/image/416/416/power-bank.jpg",
+    "link": "https://www.flipkart.com/xxxxxx"
+  }
+]

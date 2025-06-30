@@ -1,1 +1,2 @@
-// Placeholder for README.md
+# RichSolu Automation
+Full Auto Blog + Shop + Social Publisher
